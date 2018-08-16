@@ -1,3 +1,10 @@
+FORK do projeto do Mercado pago
+
+Changelog 2018-08-15
+* Correção do CEP com traço causador do erro: Error response API:  "Invalid zip_code" 
+
+
+
 [![Maintainability](https://api.codeclimate.com/v1/badges/e5a31042e63347465d99/maintainability)](https://codeclimate.com/github/mercadopago/cart-magento/maintainability)
 
 ![Mercado Pago](https://raw.githubusercontent.com/mercadopago/cart-magento/master/README.img/logo.png)
